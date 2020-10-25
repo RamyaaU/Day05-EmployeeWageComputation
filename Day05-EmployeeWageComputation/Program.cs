@@ -6,7 +6,7 @@ namespace Day05_EmployeeWageComputation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to Employee Wage Computation!");
         }
     }
 }
